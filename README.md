@@ -5,3 +5,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSe8AfLSi_vetYGIWeXsmmLlY9qXlx7nGiA68JX2
 
 Rafael Angelo Pinheiro do Vale - 2418273
 Paulo Henrique de Sousa Gomes - 2425201
+Lucas Gabriel Vasconcelos - 2415656
