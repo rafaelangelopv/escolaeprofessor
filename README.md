@@ -12,3 +12,5 @@ Lucas Gabriel Vasconcelos - 2415656
 Isaias do Amaral Sousa - 2416767
 
 Amanda Costa Silva - 2415606
+
+Pedro Yuri Rodrigues Nunes - 2425031
