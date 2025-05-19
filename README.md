@@ -10,3 +10,5 @@ Paulo Henrique de Sousa Gomes - 2425201
 Lucas Gabriel Vasconcelos - 2415656
 
 Isaias do Amaral Sousa - 2416767
+
+Amanda Costa Silva - 2415606
