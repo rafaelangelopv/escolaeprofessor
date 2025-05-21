@@ -1,0 +1,24 @@
+{
+  "name": "escola-professor",
+  "version": "1.0.0",
+  "description": "Projeto da Escola do Professor com HTML5, CSS3 e JavaScript.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "escola",
+    "professor",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
